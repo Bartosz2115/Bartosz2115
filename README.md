@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello 🥶
+My name is Bartosz 👨‍🦽 
+
+I study in Nti Nacka Gymnasium 🧐
+
+I like to play games 😎
 
 <!--
 **Bartosz2115/Bartosz2115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
