@@ -1,7 +1,7 @@
 # Hello 🥶
 My name is Bartosz 👨‍🦽 
 
-I study in Nti Nacka Gymnasium 🧐
+I study in Nti Gymnasium Nacka 🧐
 
 I like to play games 😎
 
